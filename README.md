@@ -8,9 +8,8 @@ Corporate consulting provides specialized services regarding Company Registratio
 
 # Learning
 
-* Bullet list 
-Responsive
-Multi level Navigations
-Responsive Images
-Customer Care Chat
-Descriptive Content
+* Responsive
+* Multi level Navigations
+* Responsive Images
+* Customer Care Chat
+* Descriptive Content
